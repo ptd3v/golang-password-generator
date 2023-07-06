@@ -16,3 +16,7 @@ const (
 	digits           = "0123456789"
 	specialChars     = "!@#$%^&*()_+-=[]{}|;:,.<>?/~"
 )
+
+func generatePassword{
+	
+}
