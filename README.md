@@ -1,2 +1,2 @@
 # golang-password-generator
-This code generates a random 10 character password from the specified charset. It uses the crypto/rand package for secure random number generation.
+Generates a random 20 character password using the math/rand package. Can be improved with the crypto/rand package for more secure generation.
