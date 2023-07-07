@@ -35,3 +35,10 @@ func generatePassword() string {
 	//Return the generated password to the string
 	return password
 }
+
+func main() {
+	//Fetch the newly created password string
+	password := generatePassword()
+	//Print the newly generated password
+	fmt.Println("Generated Password:", password)
+}
